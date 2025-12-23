@@ -3,7 +3,7 @@ Full Stack Developer | Java Spring Boot Specialist
 Passionate developer with 1 year of hands-on experience building scalable web applications. Currently working on a full-stack e-commerce app using React, Spring Boot, and MySQL.
 
 **Tech Stack:**
-- Backend: Java, Spring Boot, REST APIs, Node.js
+- Backend: Java, Spring Boot, REST APIs, Node.js , Express.js
 - Frontend: React.js, JavaScript, HTML/CSS, Tailwind CSS
 - Database: MySQL, PostgreSQL, MongoDB
 - Tools: Git, Maven, Postman, VS Code
